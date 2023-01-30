@@ -197,6 +197,10 @@ img{
   .section__subtitle{
     margin-bottom: var(--mb-3);
   }
+
+  .services__icon{
+    font-size: 1.5rem;
+  }
 }
 
 @media screen and(max-width :576px) {
