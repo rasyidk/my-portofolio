@@ -19,7 +19,7 @@ const Testimonials = () =>{
     return(
         <div className="testimonial container section">
             <h2 className="section__title">My Client say</h2>
-            <span className="section__subtitle">Testimonial</span>
+            <h2 className="section__subtitle">Testimonial</h2>
 
             <Swiper className="testimonial__container"
             
